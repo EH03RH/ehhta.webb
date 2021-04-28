@@ -65,3 +65,14 @@ img {
 .hv:hover {
     opacity: 0.3;
 }
+
+.vertical-line-left {
+    border-left: 150px solid rgb(255, 0, 0);
+    height: 100%;
+}
+
+.vertical-line-right {
+    border-right: 150px solid rgb(255, 0, 0);
+    height: 100%;
+    float: hidden;
+}
