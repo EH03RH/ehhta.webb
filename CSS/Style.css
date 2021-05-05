@@ -67,7 +67,7 @@ body {
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 13px 43.011px;
+    padding: 13px 42.7px;
     text-decoration: none;
     font-size: 17px;
 }
@@ -84,7 +84,6 @@ img {
     max-width:980px;
     margin-left:auto;
     margin-right:auto;
-    border-style: solid;
 }
 
 .center {
