@@ -15,6 +15,7 @@ body {
 
 div {
   @include fluid-type(font-size, 600px, 1200px, 16px, 32px);
+}
 	
 img, div, p, h1, h2, h5 {
 	max-width: 100%;
