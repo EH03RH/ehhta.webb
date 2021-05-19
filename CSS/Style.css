@@ -62,13 +62,13 @@ body {
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 3px 5px 5px 5px;
+    padding: 3px 5px 0px 5px;
 /*
   padding: 25px 50px 75px 100px;
-  top padding is 25px
-  right padding is 50px
-  bottom padding is 75px
-  left padding is 100px
+  top padding: 25px
+  right padding: 50px
+  bottom padding: 75px
+  left padding: 100px
 */
     text-decoration: none;
     font-size: 17px;
@@ -79,13 +79,13 @@ body {
     float: left;
     color: #f2f2f2;
     text-align: center;
-    padding: 3px 4px 5px 5px;
+    padding: 3px 4px 0px 5px;
 /*
   padding: 25px 50px 75px 100px;
-  top padding is 25px
-  right padding is 50px
-  bottom padding is 75px
-  left padding is 100px
+  top padding: 25px
+  right padding: 50px
+  bottom padding: 75px
+  left padding: 100px
 */
     text-decoration: none;
     font-size: 17px;
