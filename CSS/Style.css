@@ -164,7 +164,7 @@ img {
 
 .main {
     max-width:980px;
-    min-width: 350px;;
+    min-width: 250px;;
     margin-left: auto;
     margin-right: auto;
     background-color: rgb(213, 213, 213);
@@ -284,5 +284,5 @@ div {
     width: auto;
 }
 
-@media all and (max-width: 1000px) and (min-width: 980px) {
+@media all and (max-width: 1000px) and (min-width: 250px) {
   }
