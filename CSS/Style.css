@@ -281,6 +281,7 @@ ul, li {
 div {
     margin-top: 0cm;
     margin-bottom: 0cm;
+    width: auto;
 }
 
 @media all and (max-width: 1000px) and (min-width: 500px) {
