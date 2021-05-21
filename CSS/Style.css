@@ -283,7 +283,7 @@ div {
     margin-bottom: 0cm;
 }
 
-@media all and (max-width: 1000px) and (min-width: 300px) {
+@media all and (max-width: 1000px) and (min-width: 500px) {
     .class {
      margin:50px;
     }
