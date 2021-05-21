@@ -24,12 +24,12 @@ body {
 }
   
 .menu {
-    
     background-color: rgb(0, 0, 0);
     list-style: none;
     position:relative;
     position: fixed;
     width: 980px;
+    min-width: 250px;;
 }
   
 .menu-a {
@@ -164,7 +164,7 @@ img {
 
 .main {
     max-width:980px;
-    min-width: 250px;;
+    min-width: 250px;
     margin-left: auto;
     margin-right: auto;
     background-color: rgb(213, 213, 213);
